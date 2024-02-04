@@ -1,0 +1,10 @@
+su mike
+Password: Sheffield19
+
+
+wget http://10.10.14.175:8000/incus.tar.xz
+wget http://10.10.14.175:8000/rootfs.squashfs
+
+a56ef91d70cfbf2cdb8f454c006935a1
+
+c693d9c7499d9f572ee375d4c14c7bcf
