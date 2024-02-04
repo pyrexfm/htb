@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<cherrytree>
-  <node name="Vaccine" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1707005593" ts_lastsave="1707010046">
-    <rich_text>10.129.95.174
+10.129.95.174
 
 PORT   STATE SERVICE 
 21/tcp open  ftp 
@@ -32,20 +29,18 @@ PORT   STATE SERVICE
 |_      httponly flag not set 
 |_http-title: MegaCorp Login
 
- &lt;?php
+ <?php
 session_start();
-  if(isset($_POST['username']) &amp;&amp; isset($_POST['password'])) {
-    if($_POST['username'] === 'admin' &amp;&amp; md5($_POST['password']) === "2cb42f8734ea607eefed3b70af13bbd3") {
+  if(isset($_POST['username']) && isset($_POST['password'])) {
+    if($_POST['username'] === 'admin' && md5($_POST['password']) === "2cb42f8734ea607eefed3b70af13bbd3") {
       $_SESSION['login'] = "true";
       header("Location: dashboard.php");
     }
   }
-?&gt;
+?>
  
 User: Admin
-Pass:  </rich_text>
-    <rich_text foreground="#b26818">qwerty789</rich_text>
-    <rich_text>
+Pass:  qwerty789
 
 
 ' OR 1=1 --
@@ -101,6 +96,3 @@ P@s5w0rd!
 sudo /bin/vi /etc/postgresql/11/main/pg_hba.conf
 
 dd6e058e814260bc70e9bbdef2715849
-</rich_text>
-  </node>
-</cherrytree>

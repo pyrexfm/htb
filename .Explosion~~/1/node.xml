@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cherrytree>
-  <node name="Vaccine" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1707005593" ts_lastsave="1707009814">
+  <node name="Vaccine" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1707005593" ts_lastsave="1707009819">
     <rich_text>10.129.95.174
 
 PORT   STATE SERVICE 
@@ -98,6 +98,6 @@ ec9b13ca4d6229cd5cc1e09980965bf7
 
 P@s5w0rd!
 
-sudo /bin/vi/etc/postgresql/11/main/pg_hba.conf</rich_text>
+sudo /bin/vi /etc/postgresql/11/main/pg_hba.conf</rich_text>
   </node>
 </cherrytree>
