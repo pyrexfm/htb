@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commands/John.md",
+                "file": "Exercises/CozyHosting/5 - SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commands/John.md",
+                "file": "Exercises/CozyHosting/5 - SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Commands/John.md",
+                "file": "Exercises/CozyHosting/5 - SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Commands/John.md"
+                "file": "Exercises/CozyHosting/5 - SSH.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "d3a05582806ea5ad",
   "lastOpenFiles": [
-    "Exercises/CozyHosting/4 - Reverse shell.md",
+    "Commands/Python3.md",
+    "Commands/0. GtfGobins.md",
     "Exercises/CozyHosting/3 - Admin.md",
-    "Commands/John.md",
-    "Commands/Python3 terminal.md",
-    "Exercises/CozyHosting/1 - Enumeration.md",
+    "Exercises/CozyHosting/4 - Reverse shell.md",
+    "Exercises/CozyHosting/5 - SSH.md",
     "Exercises/CozyHosting/2 - Actuator.md",
+    "Exercises/CozyHosting/1 - Enumeration.md",
+    "Commands/John.md",
     "Commands/Gobuster.md",
     "Commands/Etc Hosts.md",
     "Exercises/Devvortex/Enumeration.md",
