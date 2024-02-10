@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercises/CozyHosting/5 - SSH.md",
+                "file": "Commands/SUID.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercises/CozyHosting/5 - SSH.md",
+                "file": "Commands/SUID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exercises/CozyHosting/5 - SSH.md",
+                "file": "Commands/SUID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercises/CozyHosting/5 - SSH.md"
+                "file": "Commands/SUID.md"
               }
             }
           }
@@ -146,18 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3a05582806ea5ad",
+  "active": "8fc54a866ce78717",
   "lastOpenFiles": [
+    "Exercises/Codify/4 - Escalation.md",
+    "Commands/SUID.md",
+    "Exercises/Codify/3 - Reverse shell.md",
+    "Exercises/Codify/Result.md",
+    "Exercises/Codify/1 - Enumeration.md",
+    "Commands/John.md",
+    "Exercises/Codify/2 - NodeJS Eval.md",
     "Commands/Python3.md",
+    "Commands/Etc Hosts.md",
+    "Commands/Gobuster.md",
     "Commands/0. GtfGobins.md",
+    "Exercises/Codify",
+    "Exercises/CozyHosting/5 - SSH.md",
     "Exercises/CozyHosting/3 - Admin.md",
     "Exercises/CozyHosting/4 - Reverse shell.md",
-    "Exercises/CozyHosting/5 - SSH.md",
     "Exercises/CozyHosting/2 - Actuator.md",
     "Exercises/CozyHosting/1 - Enumeration.md",
-    "Commands/John.md",
-    "Commands/Gobuster.md",
-    "Commands/Etc Hosts.md",
     "Exercises/Devvortex/Enumeration.md",
     "Exercises/CozyHosting",
     "Exercises/CozyHosting.md",
