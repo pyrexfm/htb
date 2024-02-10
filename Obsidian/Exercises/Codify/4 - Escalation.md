@@ -4,3 +4,7 @@ Linux version 5.15.0-88-generic (buildd@lcy02-amd64-058) (gcc (Ubuntu 11.4.0-1ub
 U ld (GNU Binutils for Ubuntu) 2.38) #98-Ubuntu SMP Mon Oct 2 15:18:56 UTC 2023
 ```
 
+## MySQL password
+kljh12k3jhaskjh12kjh3
+
+
