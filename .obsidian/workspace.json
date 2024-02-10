@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "8c21a0104f27b39b",
+    "id": "23bb27a63fffb090",
     "type": "split",
     "children": [
       {
-        "id": "54ec0282bd729d9c",
+        "id": "6678effe4b995bdd",
         "type": "tabs",
         "children": [
           {
-            "id": "d3a05582806ea5ad",
+            "id": "64b6d167ec3c2b5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Commands/John.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "95251dd19166b5ff",
+    "id": "a24eac2698cbd36e",
     "type": "split",
     "children": [
       {
-        "id": "7189d716a27e5496",
+        "id": "b484f8629503c2a1",
         "type": "tabs",
         "children": [
           {
-            "id": "8fc54a866ce78717",
+            "id": "ae029fca2a9cf7eb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "a8057a25689d291f",
+            "id": "1c62f2bebed8014b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "b3a1685924f0a252",
+            "id": "bd3bdefe21dcefec",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "b2fcf619d4eb139c",
+    "id": "8f72a095cb2eafae",
     "type": "split",
     "children": [
       {
-        "id": "2347d72a602feca5",
+        "id": "0e302e77d6492755",
         "type": "tabs",
         "children": [
           {
-            "id": "8719ad3905867723",
+            "id": "0e8d82c831937b7d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commands/John.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "577453c4b94e453a",
+            "id": "674f5f20e540f9a2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Commands/John.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5d28eed452f81def",
+            "id": "a570bd98e16fb2bb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "b83ba878f8cb710c",
+            "id": "8a33dab8f8ead89d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Commands/John.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,22 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3a05582806ea5ad",
-  "lastOpenFiles": [
-    "Exercises/CozyHosting/4 - Reverse shell.md",
-    "Exercises/CozyHosting/3 - Admin.md",
-    "Commands/John.md",
-    "Commands/Python3 terminal.md",
-    "Exercises/CozyHosting/1 - Enumeration.md",
-    "Exercises/CozyHosting/2 - Actuator.md",
-    "Commands/Gobuster.md",
-    "Commands/Etc Hosts.md",
-    "Exercises/Devvortex/Enumeration.md",
-    "Exercises/CozyHosting",
-    "Exercises/CozyHosting.md",
-    "Exercises/Devvortex",
-    "Untitled.md",
-    "Exercises",
-    "Commands"
-  ]
+  "active": "64b6d167ec3c2b5f",
+  "lastOpenFiles": []
 }

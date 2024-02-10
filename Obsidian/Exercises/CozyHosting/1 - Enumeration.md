@@ -17,3 +17,12 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 None
 
 ## Directories
+```bash
+dirsearch -u http://cozyhosting.htb
+(...)
+[01:23:46] 200 -  148B  - /actuator/sessions
+[01:23:46] 200 -    5KB - /actuator/env
+[01:23:46] 200 -   15B  - /actuator/health
+[01:23:46] 200 -   10KB - /actuator/mappings
+[01:23:47] 200 -  124KB - /actuator/beans
+(...)
