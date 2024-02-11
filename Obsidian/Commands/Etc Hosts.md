@@ -1,3 +1,3 @@
 ```bash
-echo '10.10.11.233 analytical.htb' | sudo tee -a /etc/hosts
+echo '10.10.11.249 play.crafty.htb' | sudo tee -a /etc/hosts
 ```
