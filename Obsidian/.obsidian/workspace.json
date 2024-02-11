@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercises/Codify/Result.md",
+                "file": "Exercises/Analytics/2 - Reverse Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercises/Codify/Result.md",
+                "file": "Exercises/Analytics/2 - Reverse Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exercises/Codify/Result.md",
+                "file": "Exercises/Analytics/2 - Reverse Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercises/Codify/Result.md"
+                "file": "Exercises/Analytics/2 - Reverse Shell.md"
               }
             }
           }
@@ -148,17 +148,22 @@
   },
   "active": "d3a05582806ea5ad",
   "lastOpenFiles": [
+    "Exercises/Analytics/Result.md",
+    "Exercises/Analytics/2 - Reverse Shell.md",
+    "Exercises/Analytics/3 - Escalation.md",
+    "Commands/Python3.md",
+    "Exercises/Analytics/1 - Enumeration.md",
+    "Commands/Gobuster.md",
+    "Commands/Etc Hosts.md",
+    "Commands/0. GtfGobins.md",
+    "Exercises/Codify/Result.md",
+    "Exercises/Analytics",
     "Exercises/Codify/4 - Escalation.md",
     "Commands/SUID.md",
     "Exercises/Codify/3 - Reverse shell.md",
-    "Exercises/Codify/Result.md",
     "Exercises/Codify/1 - Enumeration.md",
     "Commands/John.md",
     "Exercises/Codify/2 - NodeJS Eval.md",
-    "Commands/Python3.md",
-    "Commands/Etc Hosts.md",
-    "Commands/Gobuster.md",
-    "Commands/0. GtfGobins.md",
     "Exercises/Codify",
     "Exercises/CozyHosting/5 - SSH.md",
     "Exercises/CozyHosting/3 - Admin.md",
