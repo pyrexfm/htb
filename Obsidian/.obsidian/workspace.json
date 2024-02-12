@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commands/Etc Hosts.md",
+                "file": "Exercises/Devvortex/4 - Escalation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commands/Etc Hosts.md",
+                "file": "Exercises/Devvortex/4 - Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Commands/Etc Hosts.md",
+                "file": "Exercises/Devvortex/4 - Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Commands/Etc Hosts.md"
+                "file": "Exercises/Devvortex/4 - Escalation.md"
               }
             }
           }
@@ -148,15 +148,22 @@
   },
   "active": "d3a05582806ea5ad",
   "lastOpenFiles": [
-    "Exercises/Crafty/1 - Enumeration.md",
-    "Exercises/Crafty/2 - Minecraft.md",
-    "Exercises/Analytics/1 - Enumeration.md",
+    "Exercises/Devvortex/Result.md",
+    "Exercises/Devvortex/4 - Escalation.md",
+    "Exercises/CozyHosting/5 - SSH.md",
+    "Exercises/Devvortex/3 - Reverse shell.md",
+    "Exercises/Devvortex/1 - Enumeration.md",
+    "Commands/John.md",
+    "Exercises/Devvortex/2 - Joomla.md",
+    "Commands/Python3.md",
     "Commands/Gobuster.md",
     "Commands/Etc Hosts.md",
+    "Exercises/Analytics/1 - Enumeration.md",
+    "Exercises/Crafty/1 - Enumeration.md",
+    "Exercises/Crafty/2 - Minecraft.md",
     "Exercises/Analytics/2 - Reverse Shell.md",
     "Exercises/Analytics/Result.md",
     "Exercises/Analytics/3 - Escalation.md",
-    "Commands/Python3.md",
     "Commands/0. GtfGobins.md",
     "Exercises/Codify/Result.md",
     "Exercises/Analytics",
@@ -164,19 +171,13 @@
     "Commands/SUID.md",
     "Exercises/Codify/3 - Reverse shell.md",
     "Exercises/Codify/1 - Enumeration.md",
-    "Commands/John.md",
     "Exercises/Codify/2 - NodeJS Eval.md",
     "Exercises/Codify",
-    "Exercises/CozyHosting/5 - SSH.md",
     "Exercises/CozyHosting/3 - Admin.md",
     "Exercises/CozyHosting/4 - Reverse shell.md",
     "Exercises/CozyHosting/2 - Actuator.md",
-    "Exercises/CozyHosting/1 - Enumeration.md",
-    "Exercises/Devvortex/Enumeration.md",
     "Exercises/CozyHosting",
-    "Exercises/CozyHosting.md",
     "Exercises/Devvortex",
-    "Untitled.md",
     "Exercises",
     "Commands"
   ]

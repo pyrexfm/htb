@@ -1,0 +1,107 @@
+# Dirsearch started Mon Feb 12 00:15:45 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u dev.devvortex.htb
+
+403   312B   http://dev.devvortex.htb/%2e%2e//google.com
+404     1KB  http://dev.devvortex.htb/+CSCOE+/logon.html
+404     1KB  http://dev.devvortex.htb/+CSCOT+/oem
+404     1KB  http://dev.devvortex.htb/+CSCOE+/session_password.html
+404     1KB  http://dev.devvortex.htb/+CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua
+404     1KB  http://dev.devvortex.htb/+CSCOT+/translation
+404     1KB  http://dev.devvortex.htb/+CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../
+403   312B   http://dev.devvortex.htb/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+404     1KB  http://dev.devvortex.htb/.config/psi+/profiles/default/accounts.xml
+301   161B   http://dev.devvortex.htb/.settings/rules.json?auth=FIREBASE_SECRET    -> REDIRECTS TO: http://crafty.htb?auth=FIREBASE_SECRET
+301   176B   http://dev.devvortex.htb/show_image_NpAdvCatPG.php?cache=false&cat=1&filename=    -> REDIRECTS TO: http://crafty.htb?cache=false&cat=1&filename=
+403   312B   http://dev.devvortex.htb/\..\..\..\..\..\..\..\..\..\etc\passwd
+301   149B   http://dev.devvortex.htb/_vti_bin/shtml.exe?_vti_rpc    -> REDIRECTS TO: http://crafty.htb?_vti_rpc
+301   163B   http://dev.devvortex.htb/AdaptCMS/admin.php?view=/&view=levels    -> REDIRECTS TO: http://crafty.htb?view=/&view=levels
+301   165B   http://dev.devvortex.htb/AdaptCMS/admin.php?view=/&view=settings    -> REDIRECTS TO: http://crafty.htb?view=/&view=settings
+301   162B   http://dev.devvortex.htb/AdaptCMS/admin.php?view=/&view=stats    -> REDIRECTS TO: http://crafty.htb?view=/&view=stats
+301   162B   http://dev.devvortex.htb/admin/portalcollect.php?f=http://xxx&t=js    -> REDIRECTS TO: http://crafty.htb?f=http://xxx&t=js
+301   160B   http://dev.devvortex.htb/ADSearch.cc?methodToCall=search    -> REDIRECTS TO: http://crafty.htb?methodToCall=search
+301   188B   http://dev.devvortex.htb/analytics/saw.dll?getPreviewImage&previewFilePath=/etc/passwd    -> REDIRECTS TO: http://crafty.htb?getPreviewImage&previewFilePath=/etc/passwd
+301   152B   http://dev.devvortex.htb/application.wadl?detail=true    -> REDIRECTS TO: http://crafty.htb?detail=true
+404     1KB  http://dev.devvortex.htb/bitrix/web.config
+301   181B   http://dev.devvortex.htb/bmc_help2u/servlet/helpServlet2u?textareaWrap=/bmc_help2u/WEB-INF/web.xml    -> REDIRECTS TO: http://crafty.htb?textareaWrap=/bmc_help2u/WEB-INF/web.xml
+301   163B   http://dev.devvortex.htb/bugs/verify.php?confirm_hash=&id=1    -> REDIRECTS TO: http://crafty.htb?confirm_hash=&id=1
+403   312B   http://dev.devvortex.htb/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+301   144B   http://dev.devvortex.htb/cgi-bin/htimage.exe?2,2    -> REDIRECTS TO: http://crafty.htb?2,2
+301   144B   http://dev.devvortex.htb/cgi-bin/imagemap.exe?2,2    -> REDIRECTS TO: http://crafty.htb?2,2
+301   152B   http://dev.devvortex.htb/CgiStart?page=Single    -> REDIRECTS TO: http://crafty.htb?page=Single
+404     1KB  http://dev.devvortex.htb/cms/Web.config
+301   179B   http://dev.devvortex.htb/cp/Shares?user=&protocol=webaccess&v=2.3    -> REDIRECTS TO: http://crafty.htb?user=&protocol=webaccess&v=2.3
+301   145B   http://dev.devvortex.htb/CTCWebService/CTCWebServiceBean?wsdl    -> REDIRECTS TO: http://crafty.htb?wsdl
+301   148B   http://dev.devvortex.htb/debug/pprof/goroutine?debug=1    -> REDIRECTS TO: http://crafty.htb?debug=1
+301   181B   http://dev.devvortex.htb/docpicker/common_proxy/http/www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://example.com    -> REDIRECTS TO: http://crafty.htb?Logout&RedirectTo=http://example.com
+301   145B   http://dev.devvortex.htb/domcfg.nsf/?open    -> REDIRECTS TO: http://crafty.htb?open
+301   154B   http://dev.devvortex.htb/eam/vib?id=/etc/issue    -> REDIRECTS TO: http://crafty.htb?id=/etc/issue
+404     1KB  http://dev.devvortex.htb/examples/jsp/%252e%252e/%252e%252e/manager/html/
+301   154B   http://dev.devvortex.htb/faces/javax.faces.resource/web.xml?ln=../WEB-INF    -> REDIRECTS TO: http://crafty.htb?ln=../WEB-INF
+301   159B   http://dev.devvortex.htb/faces/javax.faces.resource/web.xml?ln=..\\WEB-INF    -> REDIRECTS TO: http://crafty.htb?ln=..%5C%5CWEB-INF
+301   183B   http://dev.devvortex.htb/filter/jmol/js/jsmol/php/jsmol.php?call=getRawDataFromDatabase&query=file    -> REDIRECTS TO: http://crafty.htb?call=getRawDataFromDatabase&query=file
+301   166B   http://dev.devvortex.htb/getFavicon?host=burpcollaborator.net    -> REDIRECTS TO: http://crafty.htb?host=burpcollaborator.net
+301   168B   http://dev.devvortex.htb/gotoURL.asp?url=google.com&id=43569    -> REDIRECTS TO: http://crafty.htb?url=google.com&id=43569
+200     2KB  http://dev.devvortex.htb/home
+301   152B   http://dev.devvortex.htb/index.html    -> REDIRECTS TO: http://dev.devvortex.htb/home
+301   156B   http://dev.devvortex.htb/install.php?profile=default    -> REDIRECTS TO: http://crafty.htb?profile=default
+301   149B   http://dev.devvortex.htb/install/index.php?upgrade/    -> REDIRECTS TO: http://crafty.htb?upgrade/
+301   198B   http://dev.devvortex.htb/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo    -> REDIRECTS TO: http://crafty.htb?action=inspectMBean&name=jboss.system:type=ServerInfo
+301   155B   http://dev.devvortex.htb/jolokia/list?maxObjects=100    -> REDIRECTS TO: http://crafty.htb?maxObjects=100
+404     1KB  http://dev.devvortex.htb/lang/web.config
+301   206B   http://dev.devvortex.htb/manager/jmxproxy/?invoke=BEANNAME&op=METHODNAME&ps=COMMASEPARATEDPARAMETERS    -> REDIRECTS TO: http://crafty.htb?invoke=BEANNAME&op=METHODNAME&ps=COMMASEPARATEDPARAMETERS
+301   187B   http://dev.devvortex.htb/manager/jmxproxy/?get=BEANNAME&att=MYATTRIBUTE&key=MYKEY    -> REDIRECTS TO: http://crafty.htb?get=BEANNAME&att=MYATTRIBUTE&key=MYKEY
+301   199B   http://dev.devvortex.htb/manager/jmxproxy/?invoke=Catalina%3Atype%3DService&op=findConnectors&ps=    -> REDIRECTS TO: http://crafty.htb?invoke=Catalina:type=Service&op=findConnectors&ps=
+301   190B   http://dev.devvortex.htb/manager/jmxproxy/?get=java.lang:type=Memory&att=HeapMemoryUsage    -> REDIRECTS TO: http://crafty.htb?get=java.lang:type=Memory&att=HeapMemoryUsage
+301   150B   http://dev.devvortex.htb/manager/jmxproxy/?qry=STUFF    -> REDIRECTS TO: http://crafty.htb?qry=STUFF
+301   163B   http://dev.devvortex.htb/mantis/verify.php?id=1&confirm_hash=    -> REDIRECTS TO: http://crafty.htb?id=1&confirm_hash=
+301   163B   http://dev.devvortex.htb/mantisBT/verify.php?id=1&confirm_hash=    -> REDIRECTS TO: http://crafty.htb?id=1&confirm_hash=
+301   190B   http://dev.devvortex.htb/manager/jmxproxy/?set=BEANNAME&att=MYATTRIBUTE&val=NEWVALUE    -> REDIRECTS TO: http://crafty.htb?set=BEANNAME&att=MYATTRIBUTE&val=NEWVALUE
+301   213B   http://dev.devvortex.htb/MicroStrategy/servlet/taskProc?taskId=shortURL&taskEnv=xml&taskContentType=xml&srcURL=https    -> REDIRECTS TO: http://crafty.htb?taskId=shortURL&taskEnv=xml&taskContentType=xml&srcURL=https
+404     1KB  http://dev.devvortex.htb/modules/web.config
+301   147B   http://dev.devvortex.htb/msdac/root.exe?/c+dir    -> REDIRECTS TO: http://crafty.htb?/c+dir
+301   149B   http://dev.devvortex.htb/names.nsf/People?OpenView    -> REDIRECTS TO: http://crafty.htb?OpenView
+301   157B   http://dev.devvortex.htb/node/1?_format=hal_json    -> REDIRECTS TO: http://crafty.htb?_format=hal_json
+301   153B   http://dev.devvortex.htb/open-flash-chart.swf?get-data=xss    -> REDIRECTS TO: http://crafty.htb?get-data=xss
+301   148B   http://dev.devvortex.htb/p_/webdav/xmltools/minidom/xml/sax/saxutils/os/popen2?cmd=dir    -> REDIRECTS TO: http://crafty.htb?cmd=dir
+301   157B   http://dev.devvortex.htb/PDC/ajaxreq.php?PARAM=127.0.0.1+    -> REDIRECTS TO: http://crafty.htb?PARAM=127.0.0.1 
+301   163B   http://dev.devvortex.htb/plugins/servlet/gadgets/makeRequest?url=https://google.com    -> REDIRECTS TO: http://crafty.htb?url=https://google.com
+404     1KB  http://dev.devvortex.htb/plugins/web.config
+301   166B   http://dev.devvortex.htb/proxy.stream?origin=https://google.com    -> REDIRECTS TO: http://crafty.htb?origin=https://google.com
+301   194B   http://dev.devvortex.htb/remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession    -> REDIRECTS TO: http://crafty.htb?lang=/../../../..//////////dev/cmdb/sslvpn_websession
+301   194B   http://dev.devvortex.htb/remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd    -> REDIRECTS TO: http://crafty.htb?lang=/../../../../////////////////////////bin/sslvpnd
+301   155B   http://dev.devvortex.htb/resolute.php?img=config.php    -> REDIRECTS TO: http://crafty.htb?img=config.php
+301   149B   http://dev.devvortex.htb/scripts/iisadmin/ism.dll?http/dir    -> REDIRECTS TO: http://crafty.htb?http/dir
+301   147B   http://dev.devvortex.htb/scripts/root.exe?/c+dir    -> REDIRECTS TO: http://crafty.htb?/c+dir
+301   153B   http://dev.devvortex.htb/secure/ConfigurePortalPages!default.jspa?view=popular    -> REDIRECTS TO: http://crafty.htb?view=popular
+301   145B   http://dev.devvortex.htb/service?Wsdl    -> REDIRECTS TO: http://crafty.htb?Wsdl
+301   213B   http://dev.devvortex.htb/servlet/taskProc?taskId=shortURL&taskEnv=xml&taskContentType=xml&srcURL=https    -> REDIRECTS TO: http://crafty.htb?taskId=shortURL&taskEnv=xml&taskContentType=xml&srcURL=https
+301   176B   http://dev.devvortex.htb/show_image_NpAdvFeaThumb.php?cache=false&cat=1&filename=    -> REDIRECTS TO: http://crafty.htb?cache=false&cat=1&filename=
+301   176B   http://dev.devvortex.htb/show_image_NpAdvHover.php?cache=false&cat=0&filename=    -> REDIRECTS TO: http://crafty.htb?cache=false&cat=0&filename=
+301   176B   http://dev.devvortex.htb/show_image_NpAdvInnerSmall.php?cache=false&cat=1&filename=    -> REDIRECTS TO: http://crafty.htb?cache=false&cat=1&filename=
+301   176B   http://dev.devvortex.htb/show_image_NpAdvMainFea.php?cache=false&cat=1&filename=    -> REDIRECTS TO: http://crafty.htb?cache=false&cat=1&filename=
+301   176B   http://dev.devvortex.htb/show_image_NpAdvMainPGThumb.php?cache=false&cat=1&filename=    -> REDIRECTS TO: http://crafty.htb?cache=false&cat=1&filename=
+301   176B   http://dev.devvortex.htb/show_image_NpAdvSecondaryRight.php?cache=false&cat=1&filename=    -> REDIRECTS TO: http://crafty.htb?cache=false&cat=1&filename=
+301   176B   http://dev.devvortex.htb/show_image_NpAdvSubFea.php?cache=false&cat=1&filename=    -> REDIRECTS TO: http://crafty.htb?cache=false&cat=1&filename=
+301   176B   http://dev.devvortex.htb/show_image_NpAdvSinglePhoto.php?cache=false&cat=1&filename=    -> REDIRECTS TO: http://crafty.htb?cache=false&cat=1&filename=
+301   176B   http://dev.devvortex.htb/show_image_NpAdvSideFea.php?cache=false&cat=1&filename=    -> REDIRECTS TO: http://crafty.htb?cache=false&cat=1&filename=
+301   160B   http://dev.devvortex.htb/solr/admin/file/?file=solrconfig.xml    -> REDIRECTS TO: http://crafty.htb?file=solrconfig.xml
+301   150B   http://dev.devvortex.htb/status?full=true    -> REDIRECTS TO: http://crafty.htb?full=true
+301   182B   http://dev.devvortex.htb/sugarcrm/index.php?module=Accounts&action=ShowDuplicates    -> REDIRECTS TO: http://crafty.htb?module=Accounts&action=ShowDuplicates
+301   182B   http://dev.devvortex.htb/sugarcrm/index.php?module=Contacts&action=ShowDuplicates    -> REDIRECTS TO: http://crafty.htb?module=Contacts&action=ShowDuplicates
+301   149B   http://dev.devvortex.htb/Telerik.Web.UI.WebResource.axd?type=rau    -> REDIRECTS TO: http://crafty.htb?type=rau
+404     1KB  http://dev.devvortex.htb/typo3conf/ext/static_info_tables/ext_tables_static+adt.sql
+404     1KB  http://dev.devvortex.htb/typo3conf/ext/static_info_tables/ext_tables_static+adt-orig.sql
+301   155B   http://dev.devvortex.htb/v2/keys/?recursive=true    -> REDIRECTS TO: http://crafty.htb?recursive=true
+301   163B   http://dev.devvortex.htb/verify.php?id=1&confirm_hash=    -> REDIRECTS TO: http://crafty.htb?id=1&confirm_hash=
+301   186B   http://dev.devvortex.htb/wavemaker/studioService.download?method=getContent&inUrl=file///etc/passwd    -> REDIRECTS TO: http://crafty.htb?method=getContent&inUrl=file///etc/passwd
+301   150B   http://dev.devvortex.htb/web-console/status?full=true    -> REDIRECTS TO: http://crafty.htb?full=true
+404     1KB  http://dev.devvortex.htb/web.config
+301   151B   http://dev.devvortex.htb/WebResource.axd?d=LER8t9aS    -> REDIRECTS TO: http://crafty.htb?d=LER8t9aS
+301   147B   http://dev.devvortex.htb/wp-content/plugins/backwpup/app/options-view_log-iframe.php?wpabs=    -> REDIRECTS TO: http://crafty.htb?wpabs=
+301   145B   http://dev.devvortex.htb/wp-content/plugins/jrss-widget/proxy.php?url=    -> REDIRECTS TO: http://crafty.htb?url=
+301   146B   http://dev.devvortex.htb/wp-content/plugins/wp-publication-archive/includes/openfile.php?file=    -> REDIRECTS TO: http://crafty.htb?file=
+301   181B   http://dev.devvortex.htb/wps/common_proxy/http/www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://example.com    -> REDIRECTS TO: http://crafty.htb?Logout&RedirectTo=http://example.com
+301   257B   http://dev.devvortex.htb/wps/contenthandler/!ut/p/digest!8skKFbWr_TwcZcvoc9Dn3g/?uri=http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://example.com    -> REDIRECTS TO: http://crafty.htb?uri=http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://example.com
+301   181B   http://dev.devvortex.htb/wps/cmis_proxy/http/www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://example.com    -> REDIRECTS TO: http://crafty.htb?Logout&RedirectTo=http://example.com
+301   181B   http://dev.devvortex.htb/wps/myproxy/http/www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://example.com    -> REDIRECTS TO: http://crafty.htb?Logout&RedirectTo=http://example.com
+301   181B   http://dev.devvortex.htb/wps/proxy/http/www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://example.com    -> REDIRECTS TO: http://crafty.htb?Logout&RedirectTo=http://example.com
+301   180B   http://dev.devvortex.htb/zabbix.php?action=dashboard.view&dashboardid=1    -> REDIRECTS TO: http://crafty.htb?action=dashboard.view&dashboardid=1
