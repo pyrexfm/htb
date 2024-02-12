@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercises/Analytics/2 - Reverse Shell.md",
+                "file": "Commands/Etc Hosts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercises/Analytics/2 - Reverse Shell.md",
+                "file": "Commands/Etc Hosts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exercises/Analytics/2 - Reverse Shell.md",
+                "file": "Commands/Etc Hosts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercises/Analytics/2 - Reverse Shell.md"
+                "file": "Commands/Etc Hosts.md"
               }
             }
           }
@@ -148,13 +148,15 @@
   },
   "active": "d3a05582806ea5ad",
   "lastOpenFiles": [
-    "Exercises/Analytics/Result.md",
-    "Exercises/Analytics/2 - Reverse Shell.md",
-    "Exercises/Analytics/3 - Escalation.md",
-    "Commands/Python3.md",
+    "Exercises/Crafty/1 - Enumeration.md",
+    "Exercises/Crafty/2 - Minecraft.md",
     "Exercises/Analytics/1 - Enumeration.md",
     "Commands/Gobuster.md",
     "Commands/Etc Hosts.md",
+    "Exercises/Analytics/2 - Reverse Shell.md",
+    "Exercises/Analytics/Result.md",
+    "Exercises/Analytics/3 - Escalation.md",
+    "Commands/Python3.md",
     "Commands/0. GtfGobins.md",
     "Exercises/Codify/Result.md",
     "Exercises/Analytics",
