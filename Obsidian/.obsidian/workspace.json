@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercises/Surveillance/Result.md",
+                "file": "Exercises/Hospital/1 - Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercises/Surveillance/Result.md",
+                "file": "Exercises/Hospital/1 - Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exercises/Surveillance/Result.md",
+                "file": "Exercises/Hospital/1 - Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercises/Surveillance/Result.md"
+                "file": "Exercises/Hospital/1 - Enumeration.md"
               }
             }
           }
@@ -148,16 +148,20 @@
   },
   "active": "d3a05582806ea5ad",
   "lastOpenFiles": [
+    "Exercises/Hospital/Next.md",
+    "Exercises/Hospital/1 - Enumeration.md",
+    "Commands/Gobuster.md",
+    "Exercises/Surveillance/Result.md",
+    "Exercises/Hospital",
+    "Exercises/Untitled.md",
     "Exercises/Surveillance/Zoneminder.md",
     "Commands/Python3.md",
     "Exercises/Surveillance/4 - First shell.md",
     "Exercises/Surveillance/5 - Escalation.md",
     "Exercises/Surveillance/1 - Enumeration.md",
-    "Exercises/Surveillance/Result.md",
     "Commands/John.md",
     "Exercises/Surveillance/3 - Burp.md",
     "Exercises/Surveillance/2 - Craft CMS.md",
-    "Commands/Gobuster.md",
     "Exercises/Surveillance/CVE-2023-41892.py",
     "Exercises/Surveillance/poc.py",
     "Commands/Etc Hosts.md",
@@ -174,10 +178,7 @@
     "Exercises/Crafty/2 - Minecraft.md",
     "Exercises/Analytics/2 - Reverse Shell.md",
     "Exercises/Analytics/Result.md",
-    "Exercises/Analytics/3 - Escalation.md",
-    "Exercises/Codify/Result.md",
     "Exercises/Analytics",
-    "Exercises/Codify/4 - Escalation.md",
     "Exercises/Codify",
     "Exercises/CozyHosting",
     "Exercises/Devvortex",
