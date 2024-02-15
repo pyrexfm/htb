@@ -1,1 +1,2 @@
+- [x] Try [this](https://null-byte.wonderhowto.com/how-to/bypass-file-upload-restrictions-web-apps-get-shell-0323454/)
 - [ ] Explore other windows services for exploits
