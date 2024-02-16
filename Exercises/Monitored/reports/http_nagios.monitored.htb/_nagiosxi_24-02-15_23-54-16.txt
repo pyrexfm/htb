@@ -1,0 +1,15 @@
+# Dirsearch started Thu Feb 15 23:54:46 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://nagios.monitored.htb/nagiosxi
+
+302   309B   http://nagios.monitored.htb/nagiosxi/%3f/    -> REDIRECTS TO: https://nagios.monitored.htbnagiosxi/?/
+302   308B   http://nagios.monitored.htb/nagiosxi/%2e%2e//google.com    -> REDIRECTS TO: https://nagios.monitored.htbgoogle.com
+200    32B   http://nagios.monitored.htb/nagiosxi/api/v1/swagger.json
+200    32B   http://nagios.monitored.htb/nagiosxi/api/v1/
+200    32B   http://nagios.monitored.htb/nagiosxi/api/v1/swagger.yaml
+302   325B   http://nagios.monitored.htb/nagiosxi/axis//happyaxis.jsp    -> REDIRECTS TO: https://nagios.monitored.htbnagiosxi/axis/happyaxis.jsp
+302   336B   http://nagios.monitored.htb/nagiosxi/axis2//axis2-web/HappyAxis.jsp    -> REDIRECTS TO: https://nagios.monitored.htbnagiosxi/axis2/axis2-web/HappyAxis.jsp
+302   330B   http://nagios.monitored.htb/nagiosxi/axis2-web//HappyAxis.jsp    -> REDIRECTS TO: https://nagios.monitored.htbnagiosxi/axis2-web/HappyAxis.jsp
+302   358B   http://nagios.monitored.htb/nagiosxi/Citrix//AccessPlatform/auth/clientscripts/cookies.js    -> REDIRECTS TO: https://nagios.monitored.htbnagiosxi/Citrix/AccessPlatform/auth/clientscripts/cookies.js
+302   345B   http://nagios.monitored.htb/nagiosxi/engine/classes/swfupload//swfupload.swf    -> REDIRECTS TO: https://nagios.monitored.htbnagiosxi/engine/classes/swfupload/swfupload.swf
+302   348B   http://nagios.monitored.htb/nagiosxi/engine/classes/swfupload//swfupload_f9.swf    -> REDIRECTS TO: https://nagios.monitored.htbnagiosxi/engine/classes/swfupload/swfupload_f9.swf
+302   333B   http://nagios.monitored.htb/nagiosxi/extjs/resources//charts.swf    -> REDIRECTS TO: https://nagios.monitored.htbnagiosxi/extjs/resources/charts.swf
+302   343B   http://nagios.monitored.htb/nagiosxi/html/js/misc/swfupload//swfupload.swf    -> REDIRECTS TO: https://nagios.monitored.htbnagiosxi/html/js/misc/swfupload/swfupload.swf

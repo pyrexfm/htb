@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercises/Hospital/Result.md",
+                "file": "Exercises/Monitored/1 - Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercises/Hospital/Result.md",
+                "file": "Exercises/Monitored/1 - Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exercises/Hospital/Result.md",
+                "file": "Exercises/Monitored/1 - Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercises/Hospital/Result.md"
+                "file": "Exercises/Monitored/1 - Enumeration.md"
               }
             }
           }
@@ -148,18 +148,22 @@
   },
   "active": "d3a05582806ea5ad",
   "lastOpenFiles": [
+    "Exercises/Monitored/2 - Burp.md",
+    "Commands/Gobuster.md",
+    "Commands/John.md",
+    "Exercises/Monitored/1 - Enumeration.md",
+    "Commands/Etc Hosts.md",
+    "Exercises/Hospital/Result.md",
+    "Exercises/Monitored",
     "Exercises/Hospital/Next.md",
     "Exercises/Hospital/6 - Dr. Brown.md",
     "Exercises/Hospital/5 - Email Dr.Williams.md",
-    "Exercises/Hospital/Result.md",
     "Commands/Python3.md",
     "Exercises/Hospital/1 - Enumeration.md",
     "Exercises/Hospital/2 - Reverse shell.md",
     "Exercises/Hospital/4 - Walktrough.md",
     "Exercises/Hospital/3 - MySQL.md",
     "Commands/MySQL.md",
-    "Commands/John.md",
-    "Commands/Gobuster.md",
     "Exercises/Surveillance/Result.md",
     "Exercises/Hospital",
     "Exercises/Untitled.md",
@@ -171,18 +175,14 @@
     "Exercises/Surveillance/2 - Craft CMS.md",
     "Exercises/Surveillance/CVE-2023-41892.py",
     "Exercises/Surveillance/poc.py",
-    "Commands/Etc Hosts.md",
     "Commands/0. GtfGobins.md",
     "Exercises/Devvortex/Result.md",
     "Exercises/Surveillance",
     "Exercises/Devvortex/4 - Escalation.md",
-    "Exercises/CozyHosting/5 - SSH.md",
-    "Exercises/Devvortex/3 - Reverse shell.md",
     "Exercises/Analytics",
     "Exercises/Codify",
     "Exercises/CozyHosting",
     "Exercises/Devvortex",
-    "Exercises",
-    "Commands"
+    "Exercises"
   ]
 }

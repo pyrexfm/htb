@@ -1,0 +1,11 @@
+# Dirsearch started Thu Feb 15 23:53:02 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://nagios.monitored.htb
+
+302   300B   http://nagios.monitored.htb/%3f/    -> REDIRECTS TO: https://nagios.monitored.htb?/
+302   316B   http://nagios.monitored.htb/axis//happyaxis.jsp    -> REDIRECTS TO: https://nagios.monitored.htbaxis/happyaxis.jsp
+302   321B   http://nagios.monitored.htb/axis2-web//HappyAxis.jsp    -> REDIRECTS TO: https://nagios.monitored.htbaxis2-web/HappyAxis.jsp
+302   327B   http://nagios.monitored.htb/axis2//axis2-web/HappyAxis.jsp    -> REDIRECTS TO: https://nagios.monitored.htbaxis2/axis2-web/HappyAxis.jsp
+302   349B   http://nagios.monitored.htb/Citrix//AccessPlatform/auth/clientscripts/cookies.js    -> REDIRECTS TO: https://nagios.monitored.htbCitrix/AccessPlatform/auth/clientscripts/cookies.js
+302   339B   http://nagios.monitored.htb/engine/classes/swfupload//swfupload_f9.swf    -> REDIRECTS TO: https://nagios.monitored.htbengine/classes/swfupload/swfupload_f9.swf
+302   336B   http://nagios.monitored.htb/engine/classes/swfupload//swfupload.swf    -> REDIRECTS TO: https://nagios.monitored.htbengine/classes/swfupload/swfupload.swf
+302   324B   http://nagios.monitored.htb/extjs/resources//charts.swf    -> REDIRECTS TO: https://nagios.monitored.htbextjs/resources/charts.swf
+302   334B   http://nagios.monitored.htb/html/js/misc/swfupload//swfupload.swf    -> REDIRECTS TO: https://nagios.monitored.htbhtml/js/misc/swfupload/swfupload.swf
