@@ -1,0 +1,17 @@
+# Nmap 7.94SVN scan initiated Sat Feb 17 01:15:30 2024 as: nmap -Pn -sCVU --script vulners --script-args mincvss=7.0 -p123,161 --open -oN nmap/UDP_Extra_10.10.11.248.nmap --system-dns --stats-every 2s 10.10.11.248
+Nmap scan report for nagios.monitored.htb (10.10.11.248)
+Host is up (0.058s latency).
+
+PORT    STATE SERVICE VERSION
+123/udp open  ntp     NTP v4 (unsynchronized)
+161/udp open  snmp    SNMPv1 server; net-snmp SNMPv3 server (public)
+| snmp-info: 
+|   enterprise: net-snmp
+|   engineIDFormat: unknown
+|   engineIDData: 6f3fa7421af94c6500000000
+|   snmpEngineBoots: 35
+|_  snmpEngineTime: 45m47s
+Service Info: Host: monitored
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Feb 17 01:15:31 2024 -- 1 IP address (1 host up) scanned in 0.97 seconds

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercises/Monitored/1 - Enumeration.md",
+                "file": "Exercises/Monitored/Result.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercises/Monitored/1 - Enumeration.md",
+                "file": "Exercises/Monitored/Result.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exercises/Monitored/1 - Enumeration.md",
+                "file": "Exercises/Monitored/Result.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercises/Monitored/1 - Enumeration.md"
+                "file": "Exercises/Monitored/Result.md"
               }
             }
           }
@@ -148,17 +148,22 @@
   },
   "active": "d3a05582806ea5ad",
   "lastOpenFiles": [
+    "Commands/Python3.md",
+    "Exercises/Monitored/4 - Nagios UI.md",
+    "Exercises/Monitored/6 - Reverse shell.md",
+    "Exercises/Monitored/Result.md",
+    "Exercises/Monitored/5 - SQLMap.md",
+    "Exercises/Monitored/1 - Enumeration.md",
+    "Exercises/Monitored/3 - SNMP.md",
+    "Commands/John.md",
     "Exercises/Monitored/2 - Burp.md",
     "Commands/Gobuster.md",
-    "Commands/John.md",
-    "Exercises/Monitored/1 - Enumeration.md",
     "Commands/Etc Hosts.md",
     "Exercises/Hospital/Result.md",
     "Exercises/Monitored",
     "Exercises/Hospital/Next.md",
     "Exercises/Hospital/6 - Dr. Brown.md",
     "Exercises/Hospital/5 - Email Dr.Williams.md",
-    "Commands/Python3.md",
     "Exercises/Hospital/1 - Enumeration.md",
     "Exercises/Hospital/2 - Reverse shell.md",
     "Exercises/Hospital/4 - Walktrough.md",
@@ -171,14 +176,9 @@
     "Exercises/Surveillance/4 - First shell.md",
     "Exercises/Surveillance/5 - Escalation.md",
     "Exercises/Surveillance/1 - Enumeration.md",
-    "Exercises/Surveillance/3 - Burp.md",
-    "Exercises/Surveillance/2 - Craft CMS.md",
     "Exercises/Surveillance/CVE-2023-41892.py",
     "Exercises/Surveillance/poc.py",
-    "Commands/0. GtfGobins.md",
-    "Exercises/Devvortex/Result.md",
     "Exercises/Surveillance",
-    "Exercises/Devvortex/4 - Escalation.md",
     "Exercises/Analytics",
     "Exercises/Codify",
     "Exercises/CozyHosting",

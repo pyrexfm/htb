@@ -11,7 +11,7 @@ wfuzz -w /usr/share/wordlists/dirb/big.txt -u http://nagios.monitored.htb/FUZZ -
 
 gobuster dir -u http://cozyhosting.htb/ -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt -r
 
-ffuf -u "https://nagios.monitored.htb/nagiosxi/FUZZ" -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt -r
+ffuf -u "https://nagios.monitored.htb/nagiosxi/includes/components/FUZZ" -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt -r
 
 dirsearch -u http://nagios.monitored.htb
 ```

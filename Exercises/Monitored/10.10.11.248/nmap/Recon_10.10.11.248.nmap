@@ -1,0 +1,27 @@
+
+
+
+
+[1;33m[*] Recon Recommendations
+[0m
+The script will execute the following commands.
+[0m
+[1;33m> Web Servers Recon:
+[0m
+sslscan "10.10.11.248" | tee "recon/sslscan_10.10.11.248_443.txt"
+cutycapt --url=https://10.10.11.248:443 --user-agent='incursore-is-on-your-track' --out=recon/screenshot_https_10.10.11.248_443.jpeg --out-format=jpeg
+ffuf -ic -w /usr/share/wordlists/dirb/common.txt -e '.php' -u "https://10.10.11.248:443/FUZZ" | tee "recon/ffuf_10.10.11.248_443.txt"
+cutycapt --url=http://10.10.11.248:80 --user-agent='incursore-is-on-your-track' --out=recon/screenshot_http_10.10.11.248_80.jpeg --out-format=jpeg
+ffuf -ic -w /usr/share/wordlists/dirb/common.txt -e '' -u "http://10.10.11.248:80/FUZZ" | tee "recon/ffuf_10.10.11.248_80.txt"
+[0m
+[1;33m> SNMP Recon:
+[0m
+snmp-check "10.10.11.248" -c public | tee "recon/snmpcheck_10.10.11.248.txt"
+snmpwalk -Os -c public -v1 "10.10.11.248" | tee "recon/snmpwalk_10.10.11.248.txt"
+[0m
+[1;33m> LDAP Recon:
+[0m
+ldapsearch -x -h "10.10.11.248" -s base | tee "recon/ldapsearch_10.10.11.248.txt"
+ldapsearch -x -h "10.10.11.248" -b "$(grep rootDomainNamingContext "recon/ldapsearch_10.10.11.248.txt" | cut -d ' ' -f2)" | tee "recon/ldapsearch_DC_10.10.11.248.txt"
+nmap -Pn -p 389 --script ldap-search --script-args 'ldap.username="$(grep rootDomainNamingContext "recon/ldapsearch_10.10.11.248.txt" | cut -d \ \ -f2)"' "10.10.11.248" -oN "recon/nmap_ldap_10.10.11.248.txt"
+

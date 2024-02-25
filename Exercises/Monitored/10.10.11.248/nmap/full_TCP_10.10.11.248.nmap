@@ -1,0 +1,15 @@
+# Nmap 7.94SVN scan initiated Sat Feb 17 01:01:54 2024 as: /usr/bin/nmap -T4 -p- --max-retries 2 -vv --max-scan-delay 30 -Pn --open -oN nmap/full_TCP_10.10.11.248.nmap --system-dns --stats-every 1s 10.10.11.248
+Nmap scan report for nagios.monitored.htb (10.10.11.248)
+Host is up, received user-set (0.058s latency).
+Scanned at 2024-02-17 01:01:54 WET for 100s
+Not shown: 65305 closed tcp ports (reset), 225 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT     STATE SERVICE REASON
+22/tcp   open  ssh     syn-ack ttl 63
+80/tcp   open  http    syn-ack ttl 63
+389/tcp  open  ldap    syn-ack ttl 63
+443/tcp  open  https   syn-ack ttl 63
+5667/tcp open  unknown syn-ack ttl 63
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Sat Feb 17 01:03:34 2024 -- 1 IP address (1 host up) scanned in 99.97 seconds
